@@ -1,8 +1,14 @@
+import { Input } from '@nextui-org/react'
 import React from 'react'
 
 const Header = () => {
   return (
-    <div className='h-16 w-[150px] bg-slate-600'>Header</div>
+    <div className='flex justify-center items-center  '>
+        <div className=' m-5 h-[64px] w-[1000px] bg-slate-600 '>
+            <div className=''><Input size={'lg'} type="email" label="Email" /></div>
+        
+        </div>
+    </div>
   )
 }
 

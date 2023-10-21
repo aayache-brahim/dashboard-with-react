@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     <div className="container mx-auto">
-      <Header/>
       <SideBare/>
+      <Header/>
     </div>
     </>
   )
