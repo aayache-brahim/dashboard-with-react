@@ -23,45 +23,68 @@ const SideBare = () => {
 					<CardBody className='px-0 mt-5'>
 						<Navbar>
 							<NavbarContent className='flex flex-col space-y-3'>
-								
 								<NavbarItem>
-                                    <NavbarBrand>brahim</NavbarBrand>
+									<NavbarBrand>brahim</NavbarBrand>
 								</NavbarItem>
 								<NavbarItem>
-									<Button className="w-full h-[50px] " size='lg' color="secondary"  as={Link}>
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
 										Statistique
 									</Button>
 								</NavbarItem>
 								<NavbarItem>
-									<Button size='lg' as={Link}>
-										brahim
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
+										Statistique
 									</Button>
 								</NavbarItem>
 								<NavbarItem>
-									<Button size='lg' as={Link}>
-										brahim
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
+										Statistique
 									</Button>
 								</NavbarItem>
 								<NavbarItem>
-									<Button size='lg' as={Link}>
-										brahim
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
+										Statistique
 									</Button>
 								</NavbarItem>
-								<NavbarItem>
-									<Button size='lg' as={Link}>
-										brahim
+                                <NavbarItem>
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
+										Statistique
 									</Button>
 								</NavbarItem>
-								<NavbarItem>
-									<Button  size='lg' as={Link}>
-										brahim
+                                <NavbarItem>
+									<Button
+										className='w-[180px] '
+										size='lg'
+										color='secondary'
+										as={Link}>
+										Statistique
 									</Button>
 								</NavbarItem>
 							</NavbarContent>
 						</Navbar>
 					</CardBody>
 					<CardFooter className=''>
-						<Button className='ms-4'>sign OUT</Button>
+						<Button className='ms-4 w-[200px]' color="danger">sign OUT</Button>
 					</CardFooter>
 				</Card>
 			</div>
