@@ -18,7 +18,7 @@ import React from "react";
 const SideBare = () => {
 	return (
 		<>
-			<div className='fixed rounded-2xl my-2  py-0 w-[250]  h-[700px]  '>
+			<div className='absolute rounded-2xl my-2  py-0 w-[250]  h-[700px]  '>
 				<Card className='h-[700px] my-2  '>
 					<CardBody className='px-0 mt-5'>
 						<Navbar>
@@ -29,7 +29,7 @@ const SideBare = () => {
 								<NavbarItem>
 									<Button
                                     variant="flat"
-										className='w-[180px] w-[180px] text-large font-bold '
+										className='w-[180px]  text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -39,7 +39,7 @@ const SideBare = () => {
 								<NavbarItem>
 									<Button
                                     variant="flat"
-										className='w-[180px] w-[180px] text-large font-bold '
+										className='w-[180px]  text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -49,7 +49,7 @@ const SideBare = () => {
 								<NavbarItem>
 									<Button
                                     variant="flat"
-										className='w-[180px] w-[180px] text-large font-bold '
+										className='w-[180px]  text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -59,7 +59,7 @@ const SideBare = () => {
 								<NavbarItem>
 									<Button
                                         variant="flat"
-										className='w-[180px] w-[180px] text-large font-bold '
+										className='w-[180px]  text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -69,7 +69,7 @@ const SideBare = () => {
                                 <NavbarItem>
 									<Button
                                         variant="flat"
-										className='w-[180px] w-[180px] text-large font-bold '
+										className='w-[180px]  text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
