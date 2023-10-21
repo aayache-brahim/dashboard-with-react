@@ -6,8 +6,8 @@ const Header = () => {
     <div className='flex justify-center items-center  '>
         <div className=' m-2  w-[950px]  '>
             <div className='m-5'><Input className='h-24' size={'lg'} type="search" label="Search For Somthing !"   /></div>
-        
         </div>
+        <div className=''> dark</div>
     </div>
   )
 }

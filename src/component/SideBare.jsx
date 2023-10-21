@@ -28,7 +28,8 @@ const SideBare = () => {
 								</NavbarItem>
 								<NavbarItem>
 									<Button
-										className='w-[180px] '
+                                    variant="flat"
+										className='w-[180px] w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -37,7 +38,8 @@ const SideBare = () => {
 								</NavbarItem>
 								<NavbarItem>
 									<Button
-										className='w-[180px] '
+                                    variant="flat"
+										className='w-[180px] w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -46,7 +48,8 @@ const SideBare = () => {
 								</NavbarItem>
 								<NavbarItem>
 									<Button
-										className='w-[180px] '
+                                    variant="flat"
+										className='w-[180px] w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -55,7 +58,8 @@ const SideBare = () => {
 								</NavbarItem>
 								<NavbarItem>
 									<Button
-										className='w-[180px] '
+                                        variant="flat"
+										className='w-[180px] w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -64,7 +68,8 @@ const SideBare = () => {
 								</NavbarItem>
                                 <NavbarItem>
 									<Button
-										className='w-[180px] '
+                                        variant="flat"
+										className='w-[180px] w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
@@ -73,7 +78,8 @@ const SideBare = () => {
 								</NavbarItem>
                                 <NavbarItem>
 									<Button
-										className='w-[180px] '
+                                    variant="flat"
+										className='w-[180px] text-large font-bold '
 										size='lg'
 										color='secondary'
 										as={Link}>
